@@ -1,0 +1,5 @@
+1. Comando para inicializar proyecto: tsc holaMundo.ts
+2. Comando para guardar cambios constantemente: tsc holaMundo.ts -w
+3. Crear archivo tsconfig: tsc -init
+4. Para que escuche todos los archivos TypeScript: tsc -w
+

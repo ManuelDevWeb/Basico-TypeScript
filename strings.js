@@ -1,0 +1,10 @@
+"use strict";
+var batman = "Batman";
+var robin = 'Robin';
+var joker = "The Joker";
+console.log(batman);
+console.log(robin);
+console.log(joker);
+var concatenacion = "El heroe, " + batman;
+var concat = "Los heroes son: " + batman + ", " + robin + ", " + joker;
+console.log(concat);
